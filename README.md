@@ -1,2 +1,2 @@
-Various Front-End excercises made on programming bootcamp.
-Technologies: HTML, CSS, JavaScript, JQuery
+
+Front-End excercises made on programming bootcamp PWN Back-end Developer
